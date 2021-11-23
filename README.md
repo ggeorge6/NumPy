@@ -1,4 +1,4 @@
-# NumPy
+NumPy
 An introduction to NumPy
 NumPy was created in 2005 by Travis Oliphant
 NumPy stands for Numerical Python
